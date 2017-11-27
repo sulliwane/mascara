@@ -2,7 +2,7 @@
 
 var pump = require('pump');
 var RpcEngine = require('json-rpc-engine');
-var createIdRemapMiddleware = require('json-rpc-engine/src/idRemapMiddleware');
+var createIdRemapMiddleware = require('json-rpc-engine/dist/idRemapMiddleware');
 var createStreamMiddleware = require('json-rpc-middleware-stream');
 var LocalStorageStore = require('obs-store');
 var ObjectMultiplex = require('obj-multiplex');
