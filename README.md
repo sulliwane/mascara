@@ -4,6 +4,8 @@
 
 # ES5
 ```
+npm install --save-dev babel-cli
+npm install --save-dev babel-preset-es2015
 ./node_modules/.bin/babel mascara.js --out-file mascara-es5.js --presets=es2015
 ./node_modules/.bin/babel lib --out-dir dist --presets=es2015
 ``` 
