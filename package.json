@@ -26,7 +26,7 @@
     "json-rpc-engine": "github:sulliwane/json-rpc-engine#es5",
     "json-rpc-middleware-stream": "github:sulliwane/json-rpc-middleware-stream#es5",
     "obj-multiplex": "^1.0.0",
-    "obs-store": "^2.4.1",
+    "obs-store": "github:sulliwane/obs-store#es5",
     "pump": "^1.0.2"
   },
   "devDependencies": {
