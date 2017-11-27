@@ -14,7 +14,6 @@ temp
 .DS_Store
 app/.DS_Store
 
-dist
 builds/
 disc/
 builds.zip
