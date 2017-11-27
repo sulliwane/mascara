@@ -2,6 +2,11 @@
 [2163]: https://github.com/MetaMask/metamask-extension/issues/2163
 [Subresource Integrity]: https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity
 
+# ES5
+```
+./node_modules/.bin/babel mascara.js --out-file mascara-es5.js --presets=es2015
+./node_modules/.bin/babel lib --out-dir dist --presets=es2015
+``` 
 
 # MetaMascara
 
