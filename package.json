@@ -25,7 +25,7 @@
     "iframe-stream": "^3.0.0",
     "json-rpc-engine": "github:sulliwane/json-rpc-engine#es5",
     "json-rpc-middleware-stream": "github:sulliwane/json-rpc-middleware-stream#es5",
-    "obj-multiplex": "^1.0.0",
+    "obj-multiplex": "github:sulliwane/obj-multiplex#es5",
     "obs-store": "github:sulliwane/obs-store#es5",
     "pump": "^1.0.2"
   },
